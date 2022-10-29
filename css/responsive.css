@@ -8,6 +8,10 @@
     ul {
         flex-direction: column;
     }
+
+    .section-one-heading-block {
+        margin-top: 0px;
+    }
 }
 
 @media (max-width: 915px) {

@@ -53,6 +53,10 @@ ul {
     color: #5863F8;
 }
 
+.section-one-heading-block {
+    margin-top: 115px;
+}
+
 .section-one-heading {
     font-family: 'Poppins', sans-serif;
     font-weight: bolder;
