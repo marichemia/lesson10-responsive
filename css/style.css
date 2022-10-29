@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {
+    background-image: url(../images/header-bg.png);
+    width: 1366px;
+    height: 324px;
+
+}
