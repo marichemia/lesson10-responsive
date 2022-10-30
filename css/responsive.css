@@ -2,6 +2,10 @@
     .section-one {
         width: 100%;
     }
+
+    .section-two {
+        width: 100%;
+    }
 }
 
 @media (max-width: 1023px) {
@@ -11,6 +15,10 @@
 
     .section-one-heading-block {
         margin-top: 0px;
+    }
+
+    .section-two-img-block {
+        display: none;
     }
 }
 
@@ -32,6 +40,8 @@
     .section-one {
         padding-left: 15px;
     }
+
+
 }
 
 @media (max-width: 345px) {
